@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shravan%20Kotagi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Shipper&descAlignY=58&descSize=20"/>
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> **SHRAVAN KOTAGI - AI ENGINEER**
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:38bdf8&height=150&section=header&text=Shipping%20AI%20Products%20-%20Architecture%20to%20Production&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=40&fontAlign=50"/>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/shravankotagi">
@@ -15,11 +18,7 @@
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000" height="28"/>
   </a>
   &nbsp;
-  <a href="mailto:shravankotagi314@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Shravankotagi&label=Profile+Views&color=0e75b6&style=flat-square" height="28"/>
+  
 </p>
 
 <br/>
@@ -31,23 +30,22 @@
 ```yaml
 Name        : Shravan Kotagi
 Role        : AI Engineer Intern @ Enlight Lab
-Education   : B.E. Computer Science — AI & ML Specialization (2022–2026)
+Education   : B.Tech. Computer Science - AI & ML Specialization (2022–2026)
               Kolhapur Institute of Technology · CGPA 7.5
-Location    : Pune, India · Open to relocate → Bengaluru
-Status      : Actively seeking AI & Backend Engineer roles
+Location    : Kolhapur, India 
 
 Building    :
   - RAG pipelines · Voice Agents · LLM fine-tuning
-  - Full-stack AI products shipped to production clients
+  - Full-stack AI products shipped to production
 
-Published   : SmartVest — Hinglish Financial LLM on HuggingFace Spaces (ZeroGPU)
-              Fine-tuned Llama-3.1-8B with QLoRA · 4-layer trust architecture
+Published   : SmartVest - Hinglish Financial LLM on HuggingFace Spaces (ZeroGPU)
+              Fine-tuned sarvamai/sarvam-1 (2B parameter Indic LLM) with QLoRA · 4-layer trust architecture
 
 Wins        :
-  - Quantbit Hackathon — E-Governance System (500+ daily txns)
-  - Zensar Hackathon   — Exhibit Monitor (50% faster via multithreading)
+  - Quantbit Hackathon - E-Governance System (500+ daily txns)
+  - Zensar Hackathon   - Exhibit Monitor (50% faster via multithreading)
 
-Fun fact    : I analyze stock markets the same way I debug code — systematically 📈
+Fun fact    : I analyze stock markets the same way I debug code - systematically 📈
 ```
 
 ---
@@ -96,8 +94,6 @@ Fun fact    : I analyze stock markets the same way I debug code — systematical
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
 </p>
 
@@ -117,9 +113,7 @@ Fun fact    : I analyze stock markets the same way I debug code — systematical
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -127,52 +121,7 @@ Fun fact    : I analyze stock markets the same way I debug code — systematical
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravankotagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankotagi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Shravankotagi&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-> ⚙️ **Setup required once:** Go to your `Shravankotagi` repo → Actions → New Workflow → paste the snake YAML below → Run it manually. After that it auto-updates every 12 hours.
-
-<details>
-<summary>Click to see snake workflow YAML</summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Shravankotagi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shravankotagi/Shravankotagi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
