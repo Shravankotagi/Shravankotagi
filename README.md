@@ -1,54 +1,46 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> **SHRAVAN KOTAGI — AI ENGINEER**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=180&section=header&text=SHRAVAN%20KOTAGI%20%E2%80%94%20AI%20ENGINEER&fontColor=38bdf8&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Building%20production%20LLM%20systems%20%7C%20Voice%20AI%20%7C%20RAG%20Pipelines&descAlignY=58&descSize=16&descColor=94a3b8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2744,100:020617&height=180&section=header&text=SHIPPING%20AI%20PRODUCTS%20%E2%80%94%20ARCHITECTURE%20TO%20PRODUCTION&fontColor=38bdf8&fontSize=28&animation=fadeIn&fontAlignY=45"/>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/shravankotagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio-phi-gules-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://huggingface.co/shravankotagi"><img src="https://img.shields.io/badge/HuggingFace-FACC15?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
-> **I ship AI products end-to-end — from architecture to production.**
+> **I build and ship AI systems end-to-end — from architecture to AWS production.**
 
-I'm a **final-year Computer Science (AI & ML)** student and **AI Engineer** building and deploying real-world LLM systems. At **Enlight Lab**, I independently built 6+ AI products from scratch — RAG pipelines, voice agents, clinical scribes, and lead-gen tools — all contributing directly to client revenue.
+I'm a **final-year Computer Science (AI & ML)** student and **AI Engineer** at **Enlight Lab**, where I independently built 6+ production AI products — RAG pipelines, voice agents, clinical scribes, and lead-gen tools — all contributing directly to client revenue.
 
-My work lives at the intersection of **robust backend engineering** and **modern generative AI**: Postgres schemas, FastAPI services, Docker packaging, and LLM integrations with full end-to-end ownership.
+My work lives at the intersection of **robust backend engineering** and **modern generative AI**: Postgres schemas, FastAPI services, Docker packaging, and LLM integrations, with complete ownership across each product.
 
-- 🏗️ Currently building: RAG chat + WebRTC voice lead qualification widgets
-- 🤗 Published: [SmartVest](https://huggingface.co/shravankotagi) — Hinglish financial LLM on HuggingFace Spaces (ZeroGPU)
-- 🏆 Hackathon winner: E-Governance System (Quantbit) · Exhibit Monitor (Zensar)
-
+🏗️ **Currently building:** RAG chat + WebRTC voice lead qualification widgets  
+🤗 **Published:** [SmartVest](https://huggingface.co/shravankotagi) — Hinglish financial LLM on HuggingFace Spaces (ZeroGPU)  
+🏆 **Hackathon winner:** E-Governance System (Quantbit) · Exhibit Monitor (Zensar)  
+📍 **Pune, India** · Open to relocate
 
 ---
 
-## 🧭 Core Focus Areas
+## 🧭 CORE FOCUS AREAS
 
 <table align="center">
 <tr>
-<td align="center" width="220">
+<td align="center" width="240">
 
 **🤖 LLM Engineering**  
 RAG · Agents · Fine-tuning · QLoRA
 
 </td>
-<td align="center" width="220">
+<td align="center" width="240">
 
 **🎙️ Voice AI**  
 WebRTC · Retell AI · Real-time STT/TTS
 
 </td>
-<td align="center" width="220">
+<td align="center" width="240">
 
 **⚙️ Full-Stack AI Systems**  
 Next.js · FastAPI · Docker · Supabase
@@ -59,7 +51,7 @@ Next.js · FastAPI · Docker · Supabase
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH & ENGINEERING STACK
 
 <div align="center">
 
@@ -92,7 +84,7 @@ Next.js · FastAPI · Docker · Supabase
 
 ---
 
-## 📦 Shipped Products
+## 📦 SHIPPED PRODUCTS
 
 ```diff
 + CareScribe          — Ambient AI clinical scribe: transcription → SOAP notes → EHR export
@@ -106,20 +98,30 @@ Next.js · FastAPI · Docker · Supabase
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravankotagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankotagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravankotagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankotagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravankotagi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravankotagi&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=80&section=footer&animation=fadeIn"/>
+
+  <a href="https://linkedin.com/in/shravankotagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-phi-gules-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://huggingface.co/shravankotagi"><img src="https://img.shields.io/badge/HuggingFace-FACC15?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:shravankotagi314@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2744,100:020617&height=80&section=footer&animation=fadeIn"/>
+
   <img src="https://komarev.com/ghpvc/?username=Shravankotagi&label=PROFILE%20VIEWS&color=38bdf8&style=flat-square"/>
+
 </div>
