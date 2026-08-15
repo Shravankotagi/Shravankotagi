@@ -1,114 +1,151 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shravan%20Kotagi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Shipper&descAlignY=58&descSize=20"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shravan+%F0%9F%91%8B;AI+Engineer+%7C+Builder+%7C+Shipper;RAG+%C2%B7+Voice+AI+%C2%B7+LLM+Systems" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-AI%20%26%20Backend%20Roles-22c55e?style=flat-square&labelColor=0f172a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-38bdf8?style=flat-square&labelColor=0f172a"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Shravankotagi&label=Profile+Views&color=38bdf8&style=flat-square&labelColor=0f172a"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/shravankotagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://portfolio-phi-gules-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
-&nbsp;
-<a href="https://huggingface.co/shravankotagi"><img src="https://img.shields.io/badge/HuggingFace-FACC15?style=for-the-badge&logo=huggingface&logoColor=0f172a"/></a>
-&nbsp;
-<a href="mailto:shravankotagi314@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shravankotagi">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973942-d0e02d73-c1cd-4645-ab69-b25d1e27de71.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-phi-gules-27.vercel.app/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974490-f1d17c51-95d0-4bef-a217-66f5b30dbbaa.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/shravankotagi">
+    <img height="50" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shravankotagi314@gmail.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa819-f073-4b65-b5c7-9d4a427be7f4.png"/>
+  </a>
+</p>
 
 <br/>
 
 ---
 
-### `whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```python
-shravan = {
-    "role"     : "AI Engineer Intern @ Enlight Lab",
-    "building" : ["RAG pipelines", "Voice Agents", "LLM fine-tuning", "Full-stack AI apps"],
-    "shipped"  : "6+ production AI products → direct client revenue",
-    "published": "SmartVest — Hinglish financial LLM on HuggingFace Spaces (ZeroGPU)",
-    "wins"     : ["Quantbit Hackathon", "Zensar Hackathon"],
-    "stack"    : "Python · TypeScript · Next.js · FastAPI · LangChain · Supabase · Docker",
-    "status"   : "Open to AI & Backend roles · Relocating to Bengaluru"
-}
+```yaml
+Name        : Shravan Kotagi
+Role        : AI Engineer Intern @ Enlight Lab
+Education   : B.E. Computer Science — AI & ML Specialization (2022–2026)
+              Kolhapur Institute of Technology · CGPA 7.5
+Location    : Pune, India · Open to relocate → Bengaluru
+Status      : Actively seeking AI & Backend Engineer roles
+
+Building    :
+  - RAG pipelines · Voice Agents · LLM fine-tuning
+  - Full-stack AI apps shipped to production clients
+
+Published   : SmartVest — Hinglish Financial LLM on HuggingFace Spaces (ZeroGPU)
+              Fine-tuned Llama-3.1-8B with QLoRA · 4-layer trust architecture
+
+Wins        :
+  - Quantbit Hackathon — E-Governance System (500+ daily txns)
+  - Zensar Hackathon   — Exhibit Monitor (50% faster via multithreading)
+
+Fun fact    : I analyze stock markets the same way I debug code — systematically 📈
 ```
 
 ---
 
-### 🏗️ What I've Shipped
+## 🏗️ Shipped Products
 
-| Product | Stack | Impact |
-|---|---|---|
-| **CareScribe** — AI Clinical Scribe | Next.js · AssemblyAI · Gemini · Prisma | Transcription → SOAP notes → EHR export |
-| **18 Voice Agents** — Call Automation | Retell AI · WebRTC · Next.js | 6 business verticals, zero human intervention |
-| **RAG Lead Widget** — Chat + Voice | Supabase pgvector · Gemini · HubSpot API | Semantic search + CRM sync via iframe embed |
-| **AI Readiness Scorecard** | Next.js · Gemini · HubSpot | 12-dimension maturity score for CTOs |
-| **Tech Stack Auditor** | Next.js · Upstash Redis · Resend | LLM-powered stack health audit tool |
-| **SmartVest (FinBot)** | Llama-3.1-8B · QLoRA · XGBoost | Hinglish financial LLM · live on HuggingFace |
-| **ProHomeCare** | Node.js · Redis · Socket.io · AWS | 45% DB load cut · 99.8% payment success |
+```diff
++ CareScribe       Ambient AI clinical scribe → SOAP notes → EHR export
+                   Next.js · AssemblyAI · Gemini · Prisma · Docker
 
----
++ 18 Voice Agents  Autonomous call handlers across 6 business verticals
+                   Retell AI · WebRTC · Next.js · zero human intervention
 
-### 🛠️ Tech Stack
++ RAG Lead Widget  Embeddable iframe: chat + voice, pgvector semantic search
+                   Supabase · Gemini Embeddings · HubSpot CRM sync
 
-<div align="center">
++ AI Scorecard     12-dimension AI maturity tool for CTOs → HubSpot leads
+                   Next.js 15 · Gemini API · Upstash Redis · Resend
 
-**Languages & Frameworks**
++ Tech Auditor     LLM-powered stack health audit for engineering managers
+                   Next.js · Prisma · PostgreSQL · Gemini · OpenAI
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
++ SmartVest        Hinglish financial LLM · PASS/WARN/BLOCK trust layer
+                   Llama-3.1-8B · QLoRA · XGBoost · HuggingFace ZeroGPU
 
-**AI & ML**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Retell%20AI-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/AssemblyAI-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-00BFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pinecone-00BFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/QLoRA-a855f7?style=flat-square"/>
-
-**Databases & DevOps**
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-
-</div>
++ ProHomeCare      On-demand marketplace · 45% DB load cut via Redis
+                   Node.js · Socket.io · MongoDB · AWS EC2 · Razorpay
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravankotagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankotagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165"/>
-</div>
+<h4>Languages</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravankotagi&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b"/>
-</div>
+<h4>Frameworks & Backend</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
+</p>
+
+<h4>AI & ML</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>
+</p>
+
+<h4>Databases & DevOps</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
-<div align="center">
-  <sub>Built with purpose · Shipped to production · Open to what's next</sub>
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravankotagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankotagi&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravankotagi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shravankotagi/Shravankotagi/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shravankotagi&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
