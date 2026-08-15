@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/shravankotagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-phi-gules-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://huggingface.co/shravankotagi"><img src="https://img.shields.io/badge/HuggingFace-FACC15?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="mailto:shravankotagi314@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ My work lives at the intersection of **robust backend engineering** and **modern
 - 🏗️ Currently building: RAG chat + WebRTC voice lead qualification widgets
 - 🤗 Published: [SmartVest](https://huggingface.co/shravankotagi) — Hinglish financial LLM on HuggingFace Spaces (ZeroGPU)
 - 🏆 Hackathon winner: E-Governance System (Quantbit) · Exhibit Monitor (Zensar)
-- 📍 Pune, India · Open to relocate
+
 
 ---
 
