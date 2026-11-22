@@ -29,7 +29,7 @@
 
 ```yaml
 Name        : Shravan Kotagi
-Role        : AI Engineer Intern @ Enlight Lab
+Role        : AI Engineer @ Enlight Lab
 Education   : B.Tech. Computer Science - AI & ML Specialization (2022–2026)
               Kolhapur Institute of Technology · CGPA 7.5
 Location    : Kolhapur, India 
